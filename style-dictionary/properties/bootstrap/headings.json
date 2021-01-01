@@ -1,0 +1,14 @@
+{
+    "headings": {
+        "font": {
+            "family": {
+                "value": "",
+                "comment": "Bootstrap"
+            },
+            "weight": {
+                "value": "",
+                "comment": "Bootstrap"
+            }
+        }
+    }
+}

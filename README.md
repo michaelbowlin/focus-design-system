@@ -19,6 +19,18 @@ Focus Engineering Group is a fictional enterprise organization in need of an adv
 
 ![Image description](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/atomic-design-tokens.png)
 
+## Bootstrap Vars
+
+* [Bootstrap Vars](https://bootstrapvars.com/)
+
+## Styles Dictionary 
+
+[Style Dictionary](https://amzn.github.io/style-dictionary/#/quick_start)
+
+Once you have your properties defined, you can generate your SCSS file with:
+
+`npx style-dictionary build`
+
 ## Branch Model
 
 | > Branches     	|       	|                                           	|
