@@ -1,10 +1,17 @@
-# Focus UX/UI Engineering
-
-> Design System
+# Focus Design System
 ___
 
-
 ![Image description](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-img.png)
+
+## About
+Focus Engineering Group is a fictional enterprise organization in need of an advanced design system. The system should be an automated, scalable component library. It will include the following:
+
+* Style dictionaries that manage and distribute design tokens.
+* A robust Figma project, containing multiple Atomic Design libraries.
+* A Bootstrap 4 theme kit built in Angular 10.
+* A wiki that includes the design language documentation.
+* An Angular 10 pattern library.
+
 
 ## Branches
 
