@@ -1,7 +1,7 @@
 # Focus Design System
 ___
 
-![Image description](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-img.png)
+![Image description](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/atomic-lego.png)
 
 ## About
 Focus Engineering Group is a fictional enterprise organization in need of an advanced design system. The system should be an automated, scalable component library. It will include the following:
@@ -12,8 +12,14 @@ Focus Engineering Group is a fictional enterprise organization in need of an adv
 * A wiki that includes the design language documentation.
 * An Angular 10 pattern library.
 
+## Architectural Pattern
 
-## Branches
+> The design pattern is loosely based on the Atomic Design pattern. 
+[Extending Atomic Design by Brad Frost](https://bradfrost.com/blog/post/extending-atomic-design/)
+
+![Image description](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/atomic-design-tokens.png)
+
+## Branch Model
 
 | > Branches     	|       	|                                           	|
 |----------------	|-------	|-------------------------------------------	|
@@ -21,23 +27,6 @@ Focus Engineering Group is a fictional enterprise organization in need of an adv
 | Intg           	| 1.0.0 	| Integration branch                        	|
 | Dev            	| xxx   	| Development branches based on user-stories 	|
 
-
-___
-
-## User Stories
-
-| > User Stories 	|       	|       	                |                                           |
-|----------------	|-------	|-------	                |-------------------------------------------	
-| dev/td         	| 001    	|   :thumbsup:              | Ionic Shell                               |
-| dev/td         	| 002    	|   :thumbsup:              | CRUD Implementation - GET and DELETE      |
-| dev/td         	| 003    	|   :thumbsup:      	    | CRUD Implementation - POST                |
-| dev/td         	| 004    	|   :heavy_minus_sign:	    | CRUD Implementation - UPDATE              |
-| dev/td         	| 005    	|   :thumbsup:      	    | Layout, stying and branding               |
-| dev/td         	| 006    	|   :heavy_minus_sign: 	    | Infinite Scrolling                        |
-| dev/td         	| 007    	|   :heavy_minus_sign:	    | Implement Linting                         |
-| dev/td         	| 008    	|   :heavy_minus_sign:	    | Implement Unit Tests                      |
-| dev/td         	| 009    	|   :heavy_minus_sign:	    | Implement E2E Tests                       |
-| dev/td         	| 010    	|   :heavy_minus_sign:	    | Reordering of todos via drag & drop       |
 
 ___
 
