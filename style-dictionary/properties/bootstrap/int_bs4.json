@@ -1,0 +1,38 @@
+{
+  "primary": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(56, 89, 136, 1)",
+    "type": "color"
+  },
+  "secondary": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(164, 171, 180, 1)",
+    "type": "color"
+  },
+  "info": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(0, 163, 224, 1)",
+    "type": "color"
+  },
+  "success": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(132, 189, 0, 1)",
+    "type": "color"
+  },
+  "warning": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(247, 168, 0, 1)",
+    "type": "color"
+  },
+  "danger": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(203, 37, 0, 1)",
+    "type": "color"
+  }
+}

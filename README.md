@@ -29,7 +29,11 @@ Focus Engineering Group is a fictional enterprise organization in need of an adv
 
 Once you have your properties defined, you can generate your SCSS file with:
 
-`npx style-dictionary build`
+```
+cd style-dictionary
+
+npx style-dictionary build
+```
 
 ## Branch Model
 
