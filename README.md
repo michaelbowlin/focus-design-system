@@ -1,4 +1,4 @@
-![figma-design-tokens.png](/.attachments/figma-design-tokens-5387099c-84eb-4273-8ca4-6173a49d926d.png)
+![Image description](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/figma-design-tokens.png)
 
 ## 1. About Design Tokens
 ___
@@ -44,7 +44,7 @@ ___
 
 ### 2a. The  Atomic Design Pattern
 ___
-![atomic-lego.png](/.attachments/atomic-lego-94eb090f-7e2a-489a-beac-411d67a0d0be.png)
+![atomic-lego.png](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/atomic-lego.png)
 
 > The Focus Design System is based on the Atomic Design pattern. 
 
@@ -64,7 +64,7 @@ Atomic design is a methodology composed of five distinct stages working together
 ### 2b. __Subatomic__ Particles
 ___
 
-![atomic-design-tokens.png](/.attachments/atomic-design-tokens-ed7461f1-564b-4281-bf51-6cfd81bc563d.png)
+![atomic-design-tokens.png](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/atomic-design-tokens.png)
 
 Adding the design token paradigm into the Atomic Design pattern. In the world of UI, design tokens are subatomic particles. 
 
@@ -76,7 +76,7 @@ Read more: [Extending Atomic Design by Brad Frost](https://bradfrost.com/blog/po
 ### 2c. The Atomic Design Pattern -  Overview
 ___
 
-![Screen Shot 2021-01-04 at 6.47.39 PM.png](/.attachments/Screen%20Shot%202021-01-04%20at%206.47.39%20PM-7c630b77-b225-4348-adfa-92473215ea08.png)
+![The Atomic Design Pattern -  Overview](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/atomic-design-overview.png)
 
 <br>
 <br>
@@ -117,13 +117,13 @@ ___
 <br>
 <br>
 
-### 3a. Figma Theme Changer
+### 3a. Figma Theme Changer via Switor
 ___
 
 [Switor Theme Changer](https://www.figma.com/community/plugin/811288323820451882/Switor)
 
 
-![gf_figma-theme.gif](/.attachments/gf_figma-theme-a731c33d-61ab-45a4-9f21-c95ea4a857b9.gif)
+![Figma Theme Changer via Switor](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/gf_figma-theme.gif)
 
 
 <br>
@@ -136,19 +136,19 @@ ___
 
 [Figma Design Tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens)
 
-![gf_figma-design-tokens.gif](/.attachments/gf_figma-design-tokens-e6dcd8a4-7b4b-4fda-bf75-a5a4e01f5720.gif)
+![Figma Design Tokens](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/gf_figma-design-tokens.gif)
 
 
 <br>
 <br>
 <br>
 
-### 3c. Angular Styles Dictionary 
+### 3c. Styles Dictionary 
 ___
 
 [Style Dictionary](https://amzn.github.io/style-dictionary/#/quick_start)
 
-![gf_style-dictionary.gif](/.attachments/gf_style-dictionary-3094dbff-9a04-4dab-9a81-449660ebb8f8.gif)
+![Styles Dictionary](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/gf_style-dictionary.gif)
 
 Once you have your properties defined, you can generate your SCSS file with:
 
@@ -159,10 +159,10 @@ Once you have your properties defined, you can generate your SCSS file with:
 <br>
 <br>
 
-### 3d. Focus Pattern Library (CPL) Theming
+### 3d. Focus Pattern Library (FPL) Theming
 ___
 
-![Screen Shot 2021-01-05 at 3.47.34 AM.png](/.attachments/Screen%20Shot%202021-01-05%20at%203.47.34%20AM-622642da-a7b6-4b2f-8d6b-5b075e36ca2f.png)
+![Focus Pattern Library (CPL) Theming](https://github.com/michaelbowlin/focus-design-system/blob/dev/FDS-100-base-bootstrap/readme-images/bootstap-themes.png)
 
 
 
